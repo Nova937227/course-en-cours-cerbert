@@ -1,0 +1,7 @@
+CERBÈRE / VERSION DESIGN
+
+Ouvre index.html dans ton navigateur.
+Les six pages, le CSS, le JavaScript et l’image doivent rester dans le dossier cerbere.
+L’image choisie : images/cerbere.png.
+Les emplacements photo, les performances et les rôles sont provisoires.
+Conserve une copie de ton ancien site avant de le remplacer.
